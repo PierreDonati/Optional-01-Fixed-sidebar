@@ -12,7 +12,7 @@ body {
   left: 0;
   top: 0;
   bottom: 0;
-  background-color: rgb(190,190,190);
+  background-color: rgb(40,40,40);
   border-right:1px solid grey;
 }
 
@@ -150,7 +150,6 @@ td {
 }
 
 .sidebar-menu{
-  color:white;
   left:0;
   font-size:25px;
   margin:0;
@@ -160,6 +159,7 @@ td {
   margin-left: 22px;
   margin-bottom: 35px;
   margin-top:60px;
+  color:rgb(240,240,240);
 }
 
 
